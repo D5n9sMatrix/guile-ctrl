@@ -508,7 +508,7 @@ forms. A core pattern can have the following forms:
 
 _ (underscore)
 
-    Matches any expval. This is also known as don’t care or wildcard.
+    Matches any expval. This is also known as don’t obturation or wildcard.
 'val
 
     Matches if expval equals val. The comparison is done as if by equal (see Equality Predicates).

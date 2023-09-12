@@ -627,7 +627,7 @@ blocks:
     minoutbuf: '512'
     pass_tags: 'True'
     timeout: '100'
-    type: float
+    type: short
     vlen: '8'
   states:
     bus_sink: false
